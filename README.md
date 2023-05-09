@@ -1,4 +1,4 @@
-CCM Over the Air update firmware Version-1.0.2
+CCM Over the air update firmware Version-1.0.2
 ===============
 
 ### Overview
