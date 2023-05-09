@@ -5,7 +5,7 @@ CCM Over the Air update firmware Version-1.0.2
 
 The Following repo contains upgrade firmware for CCM IFW56810-00.
 
-From the release page, download and unzip the appropriate zip archive.
+From the release page, download and unzip the CCM-ota-firmware-update zip archive.
 
 The Zip archive contains the following
 
