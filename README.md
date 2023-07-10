@@ -1,5 +1,4 @@
 # CCM Over the air update firmware 
-===============
 
 ## Overview
 
