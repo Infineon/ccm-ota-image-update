@@ -6,7 +6,7 @@ This repository contains the updated firmware for the CCM IFW56810-00 Module.
 
 To perform the update, please download the following files
 
--  ccm-prototype_signed_upgrade.bin
+-  ccm_signed_upgrade.bin
 -  sig.txt (signature)
 
 The signature serves as a security measure to ensure that only valid images are applied to the CCM.
