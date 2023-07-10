@@ -18,10 +18,8 @@ The signature serves as a security measure to ensure that only valid images are 
 -  Original hashing algorithm used: SHA-1
 -  Original encryption algorithm used: RSA 
 
-## OTA update Fails on following conditions**
+## OTA update Fails on following conditions
 
 -  The CCM Module is running a firmware version that is newer than the CCM OTA firmware version.
 -  The signature verification process fails within the CCM Module.
 
----
-© Cypress Semiconductor Corporation (an Infineon company), 2023
