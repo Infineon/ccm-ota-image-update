@@ -3,16 +3,16 @@ CCM Over the air update firmware Version-1.0.2
 
 ### Overview
 
-The Following repo contains update firmware for CCM IFW56810-00 Module.
+This repository contains the updated firmware for the CCM IFW56810-00 Module.
 
-From the release page, download and unzip the CCM-ota-firmware-update zip archive.
+To perform the update, please download and extract the CCM-ota-firmware-update zip archive from the release page.
 
-The Zip archive contains the following
+Inside the zip archive, you will find the following files:
 
--   ccm-prototype_signed_upgrade.bin
--   sig.txt (signature)
+-  ccm-prototype_signed_upgrade.bin
+-  sig.txt (signature)
 
-The signature is a security feature by which we will ensure that only valid images will be applied to CCM.
+The signature serves as a security measure to ensure that only valid images are applied to the CCM.
 
 ### Information related to signature file 
 
