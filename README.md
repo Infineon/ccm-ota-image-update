@@ -4,9 +4,7 @@
 
 This repository contains the updated firmware for the CCM IFW56810-00 Module.
 
-To perform the update, please download and extract the CCM-ota-firmware-update zip archive from the release page.
-
-Inside the zip archive, you will find the following files:
+To perform the update, please download the following files
 
 -  ccm-prototype_signed_upgrade.bin
 -  sig.txt (signature)
