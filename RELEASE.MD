@@ -1,4 +1,4 @@
-### CCM Over the air update firmware v1.2.0
+### CCM Over the air update firmware v1.0.3
 
 ### Known Issues
 None
