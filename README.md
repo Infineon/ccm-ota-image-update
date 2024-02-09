@@ -13,8 +13,8 @@ The signature serves as a security measure to ensure that only valid images are 
 
 ## Information related to signature file 
 
--  Original hashing algorithm used: SHA-1
--  Original encryption algorithm used: RSA 
+-  Original hashing algorithm used: SHA-256
+-  Original encryption algorithm used: ECDSA 
 
 ## OTA update Fails on following conditions
 
